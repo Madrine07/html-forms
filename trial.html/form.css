@@ -1,0 +1,10 @@
+form {
+    text-align: center;
+    background-color: azure;
+    border-style: outset ;
+    box-sizing:content-box;
+}
+label{
+    font-weight:bold;
+}
+
